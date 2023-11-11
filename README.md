@@ -1,6 +1,6 @@
-# mi_card
+# Buisness_Card
 
-A new Flutter project.
+I made a flutter app to showcase my business card.
 
 ## Getting Started
 
